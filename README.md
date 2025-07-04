@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Android Developer | Kotlin Enthusiast | Mobile UI/UX Specialist</h3>
+<h3 align="center">Web Developer | Android Developer | Mobile UI/UX Specialist</h3>
 
 ###
 
